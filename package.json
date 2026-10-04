@@ -40,6 +40,6 @@
   "devDependencies": {
     "@babel/core": "latest",
     "@types/react": "latest",
-    "typescript": "latest"
+    "typescript": "~5.3.3"
   }
 }
